@@ -10,6 +10,12 @@ Os dados utilizados neste projeto são de uma amostra do Power BI.
 
 ## Imagens
 
-Aqui estão duas imagens do relatório:
+Aqui estão os prints do relatório publicado no serviço do Power Bi:
 
-!https://imgur.com/a/f4ivxKS
+#### Página 01
+
+<img src="/Power_By_Analyst_Dio_Projeto01/Power_by_analyst_dio_projeto_01_pg_01.png">
+
+
+#### Página 02
+<img src="/Power_By_Analyst_Dio_Projeto01/Power_by_analyst_dio_projeto_01_pg_02.png">
